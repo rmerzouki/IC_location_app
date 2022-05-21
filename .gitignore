@@ -76,6 +76,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+ic_locations_app.ipynb
+InteCloud_loc_App.ipynb
 
 # IPython
 profile_default/
