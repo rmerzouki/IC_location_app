@@ -129,3 +129,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# other files
+locations_export_v1_rm.csv
+locations_export_v10_2.csv

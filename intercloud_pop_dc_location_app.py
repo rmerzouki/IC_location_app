@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 
 #import the data available in the directory
-data = pd.read_excel("https://github.com/rmerzouki/IC_location_app/blob/main/Locations_export_v1.0_2.csv")
+data = pd.read_csv("https://github.com/rmerzouki/IC_location_app/blob/main/locations_export_v1_rm.xls")
 
 st.set_page_config(layout='wide')
 
